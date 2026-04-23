@@ -1,0 +1,105 @@
+📊 Sales & Revenue Analysis Dashboard (Excel Project)
+
+🔍 Project Overview
+
+This project analyzes a sales dataset containing **revenue, manager, region, and category data**. The goal was to convert raw, unclean data into a **structured format and build an interactive dashboard** for business insights.
+
+
+
+🎯 Objectives
+
+* Clean and preprocess raw sales data
+* Analyze revenue and performance metrics
+* Generate manager-wise and region-wise insights
+* Build a professional Excel dashboard
+
+
+
+📂 Dataset Features
+
+* Sales Records
+* Revenue Data
+* Manager Names
+* Product Categories
+* Regional Information
+
+
+
+🛠️ Tools & Techniques Used
+
+* Microsoft Excel
+* Data Cleaning (TRIM, CLEAN)
+* Data Transformation
+* SUMIFS for conditional calculations
+* Pivot Tables & Pivot Charts
+* Dashboard Design
+
+
+ 🔄 Project Workflow
+
+ 1. Data Cleaning
+
+* Removed extra spaces and hidden characters
+* Fixed inconsistent manager names
+* Standardized text and formatting
+
+ 2. Data Processing
+
+* Created a **Manager Updated column**
+* Structured dataset for accurate analysis
+* Applied formulas like SUMIFS for revenue calculation
+
+3. Data Analysis
+
+* Built Pivot Tables to analyze:
+
+  * Revenue by Manager
+  * Sales by Region
+  * Category-wise performance
+
+ 4. Dashboard Creation
+
+* Designed a clean and interactive dashboard
+* Added charts and filters for better usability
+* Focused on business-friendly visualization
+
+
+📈 Key Insights
+
+* Identified top-performing managers
+* Compared revenue across regions
+* Highlighted category-wise trends
+* Improved data reliability through cleaning
+
+
+
+🚀 Learning Outcomes
+
+* Real-world data cleaning techniques
+* Advanced Excel formula usage
+* Practical dashboard building
+* Turning raw data into actionable insights
+
+
+📎 Files Included
+
+* Raw Dataset
+* Cleaned Dataset
+* Final Excel Dashboard
+
+ 
+
+ 🌟 Future Improvements
+
+* Add automation using Power Query
+* Enhance dashboard interactivity
+* Perform advanced analysis using Python
+
+ 
+
+🤝 Connect With Me
+
+I’m currently learning Data Science and building real-world projects.
+Feel free to connect and share feedback!
+
+ 

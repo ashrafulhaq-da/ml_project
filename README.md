@@ -1,6 +1,6 @@
 🎧 Spotify Music Analysis
-📌 Overview
 
+📌 Overview
 This project analyzes Spotify music data to uncover patterns and insights related to song popularity and audio features. It demonstrates a complete data analysis workflow, including data cleaning, exploration, visualization, and interpretation.
 
 The objective is to understand how musical attributes such as tempo, energy, and duration influence the popularity of songs.

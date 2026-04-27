@@ -1,4 +1,4 @@
-<img width="597" height="465" alt="Screenshot 2026-04-27 202148" src="https://github.com/user-attachments/assets/85153eed-fc9d-486c-b3c8-dc37dce66a57" /><img width="597" height="465" alt="Screenshot 2026-04-27 202148" src="https://github.com/user-attachments/assets/b00b8592-cd9d-475c-b41e-5bb606b0626e" />🎧 Spotify Music Analysis & Insights
+🎧 Spotify Music Analysis & Insights
 
 📌 Overview
 This project focuses on analyzing Spotify music data to uncover trends, patterns, and insights about songs, artists, and user listening behavior. The goal is to transform raw music data into meaningful insights using data analysis techniques.

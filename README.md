@@ -6,6 +6,7 @@ This project analyzes Spotify music data to uncover patterns and insights relate
 The objective is to understand how musical attributes such as tempo, energy, and duration influence the popularity of songs.
 
 🎯 Objectives
+
 Clean and preprocess the raw dataset
 Perform exploratory data analysis (EDA)
 Analyze relationships between audio features
@@ -22,6 +23,7 @@ Jupyter Notebook
  
 
 📊 Analysis Performed
+
 Data cleaning and preprocessing
 Handling missing values
 Statistical summary of dataset
